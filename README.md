@@ -56,7 +56,7 @@ It captures the Windows desktop, converts frames to JPEG, and serves them as an 
 ## 1. Download or clone
 
 ```bash
-git clone https://github.com/DwaipayanDutta/Screen-Mirror.git
+git clone https://github.com/<YOUR-USERNAME>/Screen-Mirror.git
 cd Screen-Mirror
 ```
 
