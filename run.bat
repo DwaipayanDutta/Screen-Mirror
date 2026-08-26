@@ -5,7 +5,7 @@ color 0B
 title WiFi Screen Mirror
 
 set "ROOT=%~dp0"
-set "PS1=%ROOT%screen_mirror_beautified.ps1"
+set "PS1=%ROOT%screen_mirror.ps1"
 
 if not exist "%PS1%" (
     color 0C
